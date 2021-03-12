@@ -1,0 +1,6 @@
+/.idea
+/src/test
+/target
+*.iml
+*.DS_Store
+LogData.java
